@@ -1,0 +1,66 @@
+#main-image {
+position:absolute;
+left: 300px;
+margin-top: 80px;
+
+}
+
+body {
+    background: url("https://i.pinimg.com/originals/d7/b5/24/d7b52404d4abd7246e26c0661bbc9d0e.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.btn {  
+    border-radius: 12px;
+    background-color: rgb(255, 255, 255);
+    border: dotted 1px rgb(142,212,202);
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 24px;
+}
+
+
+#startButton {
+    border-radius: 12px;
+    position:absolute;
+    left: 260px;
+    padding: 20px;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(74, 180, 145);
+}
+
+#main-container {
+    background: white;
+}
+
+#game {
+    background: white;
+    width: 900px;
+    position:absolute;
+    left: 300px;
+    margin-top: 50px;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+img {
+    align-content: center;
+}
+
+button {
+    position: relative;
+    left: 10px;
+    margin-top: 30px;
+}
